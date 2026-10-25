@@ -2,9 +2,9 @@ Alumno: Israel Landeros Felix
 ID: 00000266861
 
 Tecnologias que use:
-Java (Jakarta EE 11 Web, Servlets, JSP, JSTL)
-PostgreSQL
-Apache Tomcat 10.1
+Java (Jakarta EE 11 Web, Servlets, JSP, JSTL), 
+PostgreSQL, 
+Apache Tomcat 10.1, 
 Maven
 
 Pasos para ejecutar
