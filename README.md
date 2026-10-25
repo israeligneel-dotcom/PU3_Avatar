@@ -8,8 +8,8 @@ Apache Tomcat 10.1
 Maven
 
 Pasos para ejecutar
-Crear la base de datos "avatar_db" en PostgreSQL
-Ejecutar el script "script_avatar_db.sql" para crear la tabla y cargar los datos
-Ajustar la contraseña de PostgreSQL en "conexion.java" si es necesario
-Ejecutar clean and build en NetBeans y correr en Tomcat
-Acceder a: "http://localhost:8080/AvatarApp/listarArtes"
+1. Crear la base de datos "avatar_db" en PostgreSQL
+2. Ejecutar el script "script_avatar_db.sql" para crear la tabla y cargar los datos
+3. Ajustar la contraseña de PostgreSQL en "conexion.java" si es necesario
+4. Ejecutar clean and build en NetBeans y correr en Tomcat
+5. Acceder a: "http://localhost:8080/AvatarApp/listarArtes"
